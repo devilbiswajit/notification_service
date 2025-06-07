@@ -28,8 +28,8 @@
 ```json
 {
   "userId": "user123",
-  "type": "email",               // "email", "sms", or "in-app"
-  "destination": "user@gmail.com", // email or phone number (e.g., +1234567890)
+  "type": "email",                 // "email", "sms", or "in-app"
+  "destination": "user@gmail.com", // email or phone number 
   "message": "Hello from the notification service!"
 }
 
